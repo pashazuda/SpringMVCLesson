@@ -9,8 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="363196ae-3334-4322-9d61-4928e4e7dedd" name="Changes" comment="6. HttpServletRequest">
+    <list default="true" id="363196ae-3334-4322-9d61-4928e4e7dedd" name="Changes" comment="6. @RequestParam">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/controllers/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +181,7 @@
       <updated>1665897882616</updated>
       <workItem from="1665897884118" duration="429000" />
       <workItem from="1665898324003" duration="2287000" />
-      <workItem from="1665900625062" duration="6331000" />
+      <workItem from="1665900625062" duration="9271000" />
     </task>
     <task id="LOCAL-00001" summary="XML config">
       <created>1665900828044</created>
@@ -221,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665915343960</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="6. @RequestParam">
+      <created>1665915858949</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915858949</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +254,8 @@
     <MESSAGE value="Java config" />
     <MESSAGE value="4. Конроллеры" />
     <MESSAGE value="6. HttpServletRequest" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. HttpServletRequest" />
+    <MESSAGE value="6. @RequestParam" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. @RequestParam" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
